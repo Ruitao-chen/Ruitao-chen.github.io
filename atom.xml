@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>website for tao</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://ruitao.vercel.app/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://ruitao.vercel.app/"/>
   <updated>2022-06-26T02:10:58.767Z</updated>
-  <id>http://example.com/</id>
+  <id>https://ruitao.vercel.app/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>ruitao chen</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/1243066710/"/>
-    <id>http://example.com/posts/1243066710/</id>
+    <link href="https://ruitao.vercel.app/posts/1243066710/"/>
+    <id>https://ruitao.vercel.app/posts/1243066710/</id>
     <published>2022-06-25T08:40:20.456Z</published>
     <updated>2022-06-26T02:10:58.767Z</updated>
     
